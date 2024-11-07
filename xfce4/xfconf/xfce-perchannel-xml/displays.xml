@@ -62,7 +62,4 @@
     </property>
   </property>
   <property name="Notify" type="int" value="1"/>
-  <property name="Schemes" type="empty">
-    <property name="Apply" type="string" value="Fallback"/>
-  </property>
 </channel>
