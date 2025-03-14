@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="xfce4-panel" version="1.0">
   <property name="configver" type="int" value="2"/>
@@ -62,6 +62,8 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “westu” active: westu (73%)"/>
+        <value type="string" value="wi-fi network connection “westu” active: westu (65%)"/>
         <value type="string" value="requesting a wi-fi network address for “westu”…"/>
         <value type="string" value="wi-fi network connection “westu” active: westu (63%)"/>
         <value type="string" value="wi-fi network connection “westu” active: westu (58%)"/>
@@ -113,7 +115,7 @@
     </property>
     <property name="notes" type="empty">
       <property name="global" type="empty">
-        <property name="version" type="string" value="1.11.0"/>
+        <property name="version" type="string" value="1.11.2"/>
       </property>
     </property>
   </property>

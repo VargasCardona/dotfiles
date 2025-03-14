@@ -1,2 +1,4 @@
 [Added Associations]
 video/mp4=vlc.desktop;
+audio/mpeg=vlc.desktop;
+application/pdf=org.pwmt.zathura.desktop;
